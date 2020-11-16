@@ -28,17 +28,3 @@
 //     return 0;
 // }
 
-
-#include<stdio.h>
-
-int main()
-{
-    int ch;
-    printf("\nEnter Your Name : ");
-    scanf("%d",&ch);
-    printf("\nYour choice : %d",ch);
-    return 0;
-}
-
-
-
